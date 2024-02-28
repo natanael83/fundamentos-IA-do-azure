@@ -67,6 +67,16 @@ Descrição: Serviço para extrair informações de formulários e documentos.
 Recursos:
 Treinamento de modelos para reconhecimento de campos específicos.
 Esses são apenas alguns exemplos dos muitos serviços de IA disponíveis no Azure. A plataforma continua evoluindo com o tempo, incorporando novos recursos e aprimorando os existentes para atender às crescentes demandas na área de inteligência artificial.
+# Azure bot Service:
+![azure service bot](https://github.com/natanael83/fundamentos-IA-do-azure/assets/140859913/af00e92f-ff1b-49c5-85c3-06f919616705)
+
+## Bot de Atendimento ao Cliente:
+Descrição: Um bot projetado para fornecer suporte ao cliente, responder a perguntas frequentes, e encaminhar consultas complexas para agentes humanos, se necessário.
+Tecnologias Utilizadas: Microsoft Bot Framework, Azure QnA Maker para FAQ, integração com Azure Service Desk para roteamento de consultas.
+## Bot de Reservas de Hotel:
+Descrição: Um bot especializado em ajudar os usuários a encontrar e reservar quartos de hotel. Pode interagir com bases de dados de hotéis, mostrar disponibilidade e processar reservas.
+# Azure IA search
+![azure cognitive search](https://github.com/natanael83/fundamentos-IA-do-azure/assets/140859913/23d7b33f-91c9-47ed-99e8-b641516d57bd)
 
 
 
